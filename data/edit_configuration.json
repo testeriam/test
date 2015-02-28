@@ -358,7 +358,8 @@
       "precision": 2,
       "source_file": "Learning Math Lowest Girls - PASEC-reformatted.csv",
       "tooltip": "tooltip: {{ currentIndicator }}%",
-      "type": "number"
+      "type": "number",
+      "average": true
     },
     "learning_math_lowest_girls__sacmeq": {
       "description": "Learning Math Lowest Girls - SACMEQ",
