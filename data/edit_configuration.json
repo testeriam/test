@@ -347,7 +347,7 @@
       "source_file": "Learning Math Lowest Boys - TIMS-reformatted.csv",
       "tooltip": "tooltip: {{ currentIndicator }}%",
       "type": "number",
-      "average": false
+      "average": true
     },
     "learning_math_lowest_girls__pasec": {
       "description": "Learning Math Lowest Girls - PASEC",
